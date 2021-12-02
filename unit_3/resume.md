@@ -1,0 +1,23 @@
+According to the OECD library, societal acceptance of technology directly influences how innovation affects communities. It is well known that some societies are more open to technological change and upgrading, while others are more closed and reserved to change. When we speak of a digital economy, we are talking about a society whose capital flow is - at least in a majority way - through the use of technologies. It is difficult to speak of a digital economy in a society that resists change and innovation. The Organization for Economic Cooperation (among other organizations) has begun to release guidelines to help different organizations so that people can be more open to change, because sooner or later, it will happen. Encouraging people to use more technological products and to lose stigmas about them makes the process more bearable. [1]
+
+One of the things that is helping this change to be taken in a better way is the use of social networks. We may not see it this way, but these applications have caused millions of people to approach technology and lose their "fear" of it. Of course, there are people who don't like these services as much, but without them, perhaps the number of people who know about technology (and how to use it) would be smaller. [2]
+
+Nor should we detract from the effort made by the educational systems of most countries in the world to introduce technology to the younger generations. The use of technology and different products/services/platforms requires certain skills that take time to learn; not everything is as simple as doing Google searches. Depending on the task at hand, both young people and adults need to know how to navigate the user interfaces of their devices. When it comes to work, things change. Each job requires its own tools, and each tool its own skills. But we can summarize all the skills in a simple way: the use of technology requires logical and structured thinking, it's as simple as that. [3] [4]
+
+But a society so connected to devices is a society that consumes technological products, and these products are governed under terms and conditions that have not always been entirely kind. As Benthall & Goldenfein [5] rightly mention, at the end of the 20th century companies began to realize the power of the information and data they collected from their users. Soon, combined with knowledge of psychology and statistics, they discovered that they could have more power than perhaps they should have [5]. An example of this is Facebook and the famous Cambridge Analytica case, where we can see that companies have the power to change human decisions and behavior. To avoid this and other similar scenarios, for years there have been laws to regulate how companies process their users' data and what things they can (or cannot) do with it, such as data science.
+
+Personal and sensitive user information must be protected by law, forcing companies to implement data security strategies. One of the clearest examples is debit and credit cards, which are protected by the Commercial Data Security Standard. In other words, banking institutions have technological requirements for the processing, storage and transmission of this type of information. Consumer data privacy is also an example of how the processing of sensitive information must be handled with extreme care. [6]
+
+Cybersecurity and privacy frameworks are comprehensive. they provide methods, processes and best practices that help companies achieve better compliance with security standards and data privacy laws. Cybersecurity frameworks help reduce the risks associated with loss of confidentiality, integrity or availability.
+
+All of this must be regulated. But are there institutions that regulate the digital economy globally? Well, according to the International Economic Forum, it is governments that act as regulatory institutions for their economies. But it's only a matter of time before some global institution emerges to better manage the issue. [7]
+
+---
+### References.
+1.	https://www.oecd-ilibrary.org/science-and-technology/the-next-production-revolution/public-acceptance-and-emerging-production-technologies_9789264271036-12-en 
+2.	https://www.researchgate.net/publication/259150599_The_Impact_of_ICT_and_Online_Social_Networks_on_Health_and_Social_Services
+3.	https://soeonline.american.edu/blog/technology-in-education
+4.	https://hechingerreport.org/schools-on-a-screen-new-york-school-district-goes-all-in-on-technology-to-prepare-students-for-whatever-comes-next/
+5.	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3632577 
+6.	https://www.synopsys.com/blogs/software-security/data-security-strategy-compliance/
+7.	https://www.weforum.org/agenda/2021/07/4-ways-regulators-global-digital-economy/ 
